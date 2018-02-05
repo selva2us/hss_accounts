@@ -1,0 +1,17 @@
+pairs:
+  cc: Chris Cunningham; ccunningham
+  cw: Chris Weaver; cweaver
+  db: Devin Brown; dbrown
+  fa: Florin Alexandrescu; florinmq
+  jb: Justin Beal; jbeal
+  ky: Kumiko Yamazaki; kyamazaki
+  mr: Mike Ringrose; mringrose
+  nb: Nathan Bryant; nbryant
+  pw: Peter Williams; pwilliams
+  rw: Ryan Wanger; rwanger
+  sh: Scott Hatch; shatch
+  ts: Titus Stone; tstone
+
+email:
+  prefix: pair
+  domain: mapquest.com
